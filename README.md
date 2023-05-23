@@ -1,5 +1,10 @@
-# IBM-Quantum-Challenge-Fall-2023-Challenge
-IBM Quantum Challenge Fall 2023
+# IBM Quantum Spring Challenge 2023
+
+**May 17 — May 25**
+
+Welcome to the IBM Quantum Challenge, we’re glad you’ve taken on this unique experience. We have many resources to help you, such as the [Qiskit Textbook](https://qiskit.org/learn/) and our [YouTube channel](https://www.youtube.com/Qiskit). We also have an amazing group of mentors who can provide gentle hints towards your solutions, found on Discord. The links for all of these can be found in your registration confirmation email.
+
+The Challenge runs from May 17th to May 24th, please submit all your labs by May 24th at 5pm ET. Access to the Challenge Portal will stay open until May 31st, so if you’d like to revisit the material you may until then. After May 31st the content will be accessible via GitHub.
 
 ![Completion](Images/Completion.png)
 
